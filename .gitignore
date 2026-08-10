@@ -1,0 +1,29 @@
+# Maven
+target/
+*.class
+
+# Logs
+*.log
+build.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# SQLite temporary lock files
+*.db-journal
+*.db-wal
+*.db-shm
