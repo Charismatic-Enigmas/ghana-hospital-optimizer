@@ -1,0 +1,101 @@
+location_id,name,facility,area,type,latitude,longitude
+1,University of Ghana Hospital - Emergency Ward,"University of Ghana Hospital, Legon",Legon,WARD,5.65249,-0.179912
+2,University of Ghana Hospital - Out-Patient Department,"University of Ghana Hospital, Legon",Legon,OPD,5.651235,-0.175666
+3,University of Ghana Hospital - Maternity Ward,"University of Ghana Hospital, Legon",Legon,WARD,5.653376,-0.179556
+4,University of Ghana Hospital - Pharmacy,"University of Ghana Hospital, Legon",Legon,PHARMACY,5.653176,-0.176991
+5,University of Ghana Hospital - Laboratory,"University of Ghana Hospital, Legon",Legon,LAB,5.649687,-0.178943
+6,University of Ghana Hospital - Intensive Care Unit,"University of Ghana Hospital, Legon",Legon,ICU,5.654233,-0.179411
+7,University of Ghana Hospital - Operating Theatre,"University of Ghana Hospital, Legon",Legon,THEATRE,5.653611,-0.176272
+8,University of Ghana Hospital - Radiology,"University of Ghana Hospital, Legon",Legon,LAB,5.654236,-0.177741
+9,University of Ghana Hospital - Administration,"University of Ghana Hospital, Legon",Legon,ADMIN,5.652259,-0.178741
+10,University of Ghana Hospital - Main Gate,"University of Ghana Hospital, Legon",Legon,GATE,5.650674,-0.1774
+11,Korle-Bu Teaching Hospital - Emergency Ward,Korle-Bu Teaching Hospital,Korle-Bu,WARD,5.540089,-0.225842
+12,Korle-Bu Teaching Hospital - Out-Patient Department,Korle-Bu Teaching Hospital,Korle-Bu,OPD,5.536736,-0.226878
+13,Korle-Bu Teaching Hospital - Maternity Ward,Korle-Bu Teaching Hospital,Korle-Bu,WARD,5.540781,-0.228881
+14,Korle-Bu Teaching Hospital - Pharmacy,Korle-Bu Teaching Hospital,Korle-Bu,PHARMACY,5.537756,-0.225784
+15,Korle-Bu Teaching Hospital - Laboratory,Korle-Bu Teaching Hospital,Korle-Bu,LAB,5.537303,-0.228639
+16,Korle-Bu Teaching Hospital - Intensive Care Unit,Korle-Bu Teaching Hospital,Korle-Bu,ICU,5.538816,-0.22836
+17,Korle-Bu Teaching Hospital - Operating Theatre,Korle-Bu Teaching Hospital,Korle-Bu,THEATRE,5.536226,-0.228166
+18,Korle-Bu Teaching Hospital - Radiology,Korle-Bu Teaching Hospital,Korle-Bu,LAB,5.538156,-0.227492
+19,Korle-Bu Teaching Hospital - Administration,Korle-Bu Teaching Hospital,Korle-Bu,ADMIN,5.540383,-0.225974
+20,Korle-Bu Teaching Hospital - Main Gate,Korle-Bu Teaching Hospital,Korle-Bu,GATE,5.539474,-0.228961
+21,Ridge Hospital - Emergency Ward,Ridge Hospital,Ridge,WARD,5.561573,-0.197486
+22,Ridge Hospital - Out-Patient Department,Ridge Hospital,Ridge,OPD,5.562224,-0.200176
+23,Ridge Hospital - Maternity Ward,Ridge Hospital,Ridge,WARD,5.564046,-0.200222
+24,Ridge Hospital - Pharmacy,Ridge Hospital,Ridge,PHARMACY,5.562272,-0.196569
+25,Ridge Hospital - Laboratory,Ridge Hospital,Ridge,LAB,5.563138,-0.197285
+26,Ridge Hospital - Intensive Care Unit,Ridge Hospital,Ridge,ICU,5.563818,-0.199588
+27,Ridge Hospital - Operating Theatre,Ridge Hospital,Ridge,THEATRE,5.560154,-0.198476
+28,Ridge Hospital - Radiology,Ridge Hospital,Ridge,LAB,5.561421,-0.199193
+29,Ridge Hospital - Administration,Ridge Hospital,Ridge,ADMIN,5.563343,-0.201373
+30,Ridge Hospital - Main Gate,Ridge Hospital,Ridge,GATE,5.560963,-0.198849
+31,37 Military Hospital - Emergency Ward,37 Military Hospital,Cantonments,WARD,5.586678,-0.182692
+32,37 Military Hospital - Out-Patient Department,37 Military Hospital,Cantonments,OPD,5.587605,-0.187264
+33,37 Military Hospital - Maternity Ward,37 Military Hospital,Cantonments,WARD,5.587326,-0.186685
+34,37 Military Hospital - Pharmacy,37 Military Hospital,Cantonments,PHARMACY,5.585202,-0.182861
+35,37 Military Hospital - Laboratory,37 Military Hospital,Cantonments,LAB,5.587479,-0.184707
+36,37 Military Hospital - Intensive Care Unit,37 Military Hospital,Cantonments,ICU,5.589342,-0.184889
+37,37 Military Hospital - Operating Theatre,37 Military Hospital,Cantonments,THEATRE,5.587074,-0.184685
+38,37 Military Hospital - Radiology,37 Military Hospital,Cantonments,LAB,5.588605,-0.186517
+39,37 Military Hospital - Administration,37 Military Hospital,Cantonments,ADMIN,5.585274,-0.185426
+40,37 Military Hospital - Main Gate,37 Military Hospital,Cantonments,GATE,5.58757,-0.185698
+41,La General Hospital - Emergency Ward,La General Hospital,La,WARD,5.555934,-0.167933
+42,La General Hospital - Out-Patient Department,La General Hospital,La,OPD,5.554556,-0.167723
+43,La General Hospital - Maternity Ward,La General Hospital,La,WARD,5.557484,-0.165133
+44,La General Hospital - Pharmacy,La General Hospital,La,PHARMACY,5.553133,-0.165452
+45,La General Hospital - Laboratory,La General Hospital,La,LAB,5.554482,-0.168278
+46,La General Hospital - Intensive Care Unit,La General Hospital,La,ICU,5.556223,-0.164767
+47,La General Hospital - Operating Theatre,La General Hospital,La,THEATRE,5.553123,-0.166419
+48,La General Hospital - Radiology,La General Hospital,La,LAB,5.557988,-0.167473
+49,La General Hospital - Administration,La General Hospital,La,ADMIN,5.553718,-0.164298
+50,La General Hospital - Main Gate,La General Hospital,La,GATE,5.554857,-0.164547
+51,Tema General Hospital - Emergency Ward,Tema General Hospital,Tema,WARD,5.671779,-0.027145
+52,Tema General Hospital - Out-Patient Department,Tema General Hospital,Tema,OPD,5.673849,-0.027149
+53,Tema General Hospital - Maternity Ward,Tema General Hospital,Tema,WARD,5.672033,-0.02303
+54,Tema General Hospital - Pharmacy,Tema General Hospital,Tema,PHARMACY,5.671756,-0.023738
+55,Tema General Hospital - Laboratory,Tema General Hospital,Tema,LAB,5.675557,-0.026201
+56,Tema General Hospital - Intensive Care Unit,Tema General Hospital,Tema,ICU,5.673639,-0.023615
+57,Tema General Hospital - Operating Theatre,Tema General Hospital,Tema,THEATRE,5.674648,-0.025564
+58,Tema General Hospital - Radiology,Tema General Hospital,Tema,LAB,5.675126,-0.026125
+59,Tema General Hospital - Administration,Tema General Hospital,Tema,ADMIN,5.675361,-0.025233
+60,Tema General Hospital - Main Gate,Tema General Hospital,Tema,GATE,5.675514,-0.02332
+61,Madina Polyclinic - Emergency Ward,Madina Polyclinic,Madina,WARD,5.665448,-0.164071
+62,Madina Polyclinic - Out-Patient Department,Madina Polyclinic,Madina,OPD,5.669081,-0.166215
+63,Madina Polyclinic - Maternity Ward,Madina Polyclinic,Madina,WARD,5.665185,-0.164896
+64,Madina Polyclinic - Pharmacy,Madina Polyclinic,Madina,PHARMACY,5.66705,-0.162935
+65,Madina Polyclinic - Laboratory,Madina Polyclinic,Madina,LAB,5.66635,-0.164088
+66,Madina Polyclinic - Intensive Care Unit,Madina Polyclinic,Madina,ICU,5.667802,-0.163337
+67,Madina Polyclinic - Operating Theatre,Madina Polyclinic,Madina,THEATRE,5.666151,-0.165987
+68,Madina Polyclinic - Radiology,Madina Polyclinic,Madina,LAB,5.669641,-0.167333
+69,Madina Polyclinic - Administration,Madina Polyclinic,Madina,ADMIN,5.665952,-0.166634
+70,Madina Polyclinic - Main Gate,Madina Polyclinic,Madina,GATE,5.665483,-0.164833
+71,Achimota Hospital - Emergency Ward,Achimota Hospital,Achimota,WARD,5.630138,-0.215699
+72,Achimota Hospital - Out-Patient Department,Achimota Hospital,Achimota,OPD,5.627613,-0.216006
+73,Achimota Hospital - Maternity Ward,Achimota Hospital,Achimota,WARD,5.628693,-0.219084
+74,Achimota Hospital - Pharmacy,Achimota Hospital,Achimota,PHARMACY,5.629071,-0.216277
+75,Achimota Hospital - Laboratory,Achimota Hospital,Achimota,LAB,5.628174,-0.219608
+76,Achimota Hospital - Intensive Care Unit,Achimota Hospital,Achimota,ICU,5.6294,-0.216111
+77,Achimota Hospital - Operating Theatre,Achimota Hospital,Achimota,THEATRE,5.632025,-0.215575
+78,Achimota Hospital - Radiology,Achimota Hospital,Achimota,LAB,5.631176,-0.216793
+79,Achimota Hospital - Administration,Achimota Hospital,Achimota,ADMIN,5.629441,-0.218569
+80,Achimota Hospital - Main Gate,Achimota Hospital,Achimota,GATE,5.627946,-0.218743
+81,Nyaho Medical Centre - Emergency Ward,Nyaho Medical Centre,Airport Residential,WARD,5.550659,-0.206249
+82,Nyaho Medical Centre - Out-Patient Department,Nyaho Medical Centre,Airport Residential,OPD,5.549357,-0.203724
+83,Nyaho Medical Centre - Maternity Ward,Nyaho Medical Centre,Airport Residential,WARD,5.552266,-0.203409
+84,Nyaho Medical Centre - Pharmacy,Nyaho Medical Centre,Airport Residential,PHARMACY,5.549302,-0.206434
+85,Nyaho Medical Centre - Laboratory,Nyaho Medical Centre,Airport Residential,LAB,5.550967,-0.202836
+86,Nyaho Medical Centre - Intensive Care Unit,Nyaho Medical Centre,Airport Residential,ICU,5.550966,-0.205027
+87,Nyaho Medical Centre - Operating Theatre,Nyaho Medical Centre,Airport Residential,THEATRE,5.552247,-0.205325
+88,Nyaho Medical Centre - Radiology,Nyaho Medical Centre,Airport Residential,LAB,5.549349,-0.20524
+89,Nyaho Medical Centre - Administration,Nyaho Medical Centre,Airport Residential,ADMIN,5.549158,-0.206384
+90,Nyaho Medical Centre - Main Gate,Nyaho Medical Centre,Airport Residential,GATE,5.551934,-0.206427
+91,Dodowa Health Centre - Emergency Ward,Dodowa Health Centre,Dodowa,WARD,5.886526,-0.094004
+92,Dodowa Health Centre - Out-Patient Department,Dodowa Health Centre,Dodowa,OPD,5.885355,-0.090955
+93,Dodowa Health Centre - Maternity Ward,Dodowa Health Centre,Dodowa,WARD,5.887994,-0.094654
+94,Dodowa Health Centre - Pharmacy,Dodowa Health Centre,Dodowa,PHARMACY,5.885771,-0.093845
+95,Dodowa Health Centre - Laboratory,Dodowa Health Centre,Dodowa,LAB,5.884878,-0.093429
+96,Dodowa Health Centre - Intensive Care Unit,Dodowa Health Centre,Dodowa,ICU,5.888411,-0.09313
+97,Dodowa Health Centre - Operating Theatre,Dodowa Health Centre,Dodowa,THEATRE,5.884473,-0.093427
+98,Dodowa Health Centre - Radiology,Dodowa Health Centre,Dodowa,LAB,5.886614,-0.091872
+99,Dodowa Health Centre - Administration,Dodowa Health Centre,Dodowa,ADMIN,5.885822,-0.090433
+100,Dodowa Health Centre - Main Gate,Dodowa Health Centre,Dodowa,GATE,5.886568,-0.09101
