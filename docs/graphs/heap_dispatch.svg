@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" font-family="Arial, sans-serif">
+<rect width="760" height="460" fill="white"/>
+<text x="380.0" y="24" text-anchor="middle" font-size="16" font-weight="bold">Heap priority dispatch: insert-then-extract-all</text>
+<line x1="80" y1="455.5" x2="560" y2="455.5" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="459.5" text-anchor="end" font-size="11" fill="#374151">-2.5M</text>
+<line x1="80" y1="384.0" x2="560" y2="384.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="388.0" text-anchor="end" font-size="11" fill="#374151">0</text>
+<line x1="80" y1="312.6" x2="560" y2="312.6" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="316.6" text-anchor="end" font-size="11" fill="#374151">2.5M</text>
+<line x1="80" y1="241.1" x2="560" y2="241.1" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="245.1" text-anchor="end" font-size="11" fill="#374151">5.0M</text>
+<line x1="80" y1="169.6" x2="560" y2="169.6" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="173.6" text-anchor="end" font-size="11" fill="#374151">7.5M</text>
+<line x1="80" y1="98.1" x2="560" y2="98.1" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="102.1" text-anchor="end" font-size="11" fill="#374151">10.0M</text>
+<line x1="80" y1="26.7" x2="560" y2="26.7" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="30.7" text-anchor="end" font-size="11" fill="#374151">12.5M</text>
+<text x="80.0" y="418" text-anchor="middle" font-size="10" fill="#374151">100</text>
+<line x1="80.0" y1="50" x2="80.0" y2="400" stroke="#f3f4f6" stroke-width="1"/>
+<text x="101.7" y="418" text-anchor="middle" font-size="10" fill="#374151">1.0k</text>
+<line x1="101.7" y1="50" x2="101.7" y2="400" stroke="#f3f4f6" stroke-width="1"/>
+<text x="198.2" y="418" text-anchor="middle" font-size="10" fill="#374151">5.0k</text>
+<line x1="198.2" y1="50" x2="198.2" y2="400" stroke="#f3f4f6" stroke-width="1"/>
+<text x="318.8" y="418" text-anchor="middle" font-size="10" fill="#374151">10.0k</text>
+<line x1="318.8" y1="50" x2="318.8" y2="400" stroke="#f3f4f6" stroke-width="1"/>
+<text x="560.0" y="418" text-anchor="middle" font-size="10" fill="#374151">20.0k</text>
+<line x1="560.0" y1="50" x2="560.0" y2="400" stroke="#f3f4f6" stroke-width="1"/>
+<line x1="80" y1="50" x2="80" y2="400" stroke="#111827" stroke-width="1.5"/>
+<line x1="80" y1="400" x2="560" y2="400" stroke="#111827" stroke-width="1.5"/>
+<text x="320.0" y="446" text-anchor="middle" font-size="12" fill="#111827">input size (requests)</text>
+<text x="16" y="225.0" text-anchor="middle" font-size="12" fill="#111827" transform="rotate(-90 16 225.0)">mean time (ns)</text>
+<path d="M80.0,375.9 L101.7,342.0 L198.2,193.2 L318.8,185.1 L560.0,74.1" fill="none" stroke="#2563eb" stroke-width="2"/>
+<circle cx="80.0" cy="375.9" r="3" fill="#2563eb"/>
+<circle cx="101.7" cy="342.0" r="3" fill="#2563eb"/>
+<circle cx="198.2" cy="193.2" r="3" fill="#2563eb"/>
+<circle cx="318.8" cy="185.1" r="3" fill="#2563eb"/>
+<circle cx="560.0" cy="74.1" r="3" fill="#2563eb"/>
+<line x1="580" y1="55" x2="598" y2="55" stroke="#2563eb" stroke-width="2.5"/>
+<text x="604" y="59" font-size="11" fill="#111827">InsertThenExtractAll</text>
+</svg>

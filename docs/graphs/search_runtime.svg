@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" font-family="Arial, sans-serif">
+<rect width="760" height="460" fill="white"/>
+<text x="380.0" y="24" text-anchor="middle" font-size="16" font-weight="bold">Search comparison: linear vs binary search</text>
+<line x1="80" y1="400.0" x2="560" y2="400.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="404.0" text-anchor="end" font-size="11" fill="#374151">4.8k</text>
+<line x1="80" y1="330.0" x2="560" y2="330.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="334.0" text-anchor="end" font-size="11" fill="#374151">14.3k</text>
+<line x1="80" y1="260.0" x2="560" y2="260.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="264.0" text-anchor="end" font-size="11" fill="#374151">43.2k</text>
+<line x1="80" y1="190.0" x2="560" y2="190.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="194.0" text-anchor="end" font-size="11" fill="#374151">130.0k</text>
+<line x1="80" y1="120.0" x2="560" y2="120.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="124.0" text-anchor="end" font-size="11" fill="#374151">391.5k</text>
+<line x1="80" y1="50.0" x2="560" y2="50.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="54.0" text-anchor="end" font-size="11" fill="#374151">1.2M</text>
+<text x="80.0" y="418" text-anchor="middle" font-size="10" fill="#374151">100</text>
+<line x1="80.0" y1="50" x2="80.0" y2="400" stroke="#f3f4f6" stroke-width="1"/>
+<text x="99.4" y="418" text-anchor="middle" font-size="10" fill="#374151">500</text>
+<line x1="99.4" y1="50" x2="99.4" y2="400" stroke="#f3f4f6" stroke-width="1"/>
+<text x="123.6" y="418" text-anchor="middle" font-size="10" fill="#374151">1.0k</text>
+<line x1="123.6" y1="50" x2="123.6" y2="400" stroke="#f3f4f6" stroke-width="1"/>
+<text x="317.6" y="418" text-anchor="middle" font-size="10" fill="#374151">5.0k</text>
+<line x1="317.6" y1="50" x2="317.6" y2="400" stroke="#f3f4f6" stroke-width="1"/>
+<text x="560.0" y="418" text-anchor="middle" font-size="10" fill="#374151">10.0k</text>
+<line x1="560.0" y1="50" x2="560.0" y2="400" stroke="#f3f4f6" stroke-width="1"/>
+<line x1="80" y1="50" x2="80" y2="400" stroke="#111827" stroke-width="1.5"/>
+<line x1="80" y1="400" x2="560" y2="400" stroke="#111827" stroke-width="1.5"/>
+<text x="320.0" y="446" text-anchor="middle" font-size="12" fill="#111827">input size (records)</text>
+<text x="16" y="225.0" text-anchor="middle" font-size="12" fill="#111827" transform="rotate(-90 16 225.0)">mean time (ns, log scale)</text>
+<path d="M80.0,360.5 L99.4,360.3 L123.6,375.9 L317.6,369.5 L560.0,354.4" fill="none" stroke="#2563eb" stroke-width="2"/>
+<circle cx="80.0" cy="360.5" r="3" fill="#2563eb"/>
+<circle cx="99.4" cy="360.3" r="3" fill="#2563eb"/>
+<circle cx="123.6" cy="375.9" r="3" fill="#2563eb"/>
+<circle cx="317.6" cy="369.5" r="3" fill="#2563eb"/>
+<circle cx="560.0" cy="354.4" r="3" fill="#2563eb"/>
+<line x1="580" y1="55" x2="598" y2="55" stroke="#2563eb" stroke-width="2.5"/>
+<text x="604" y="59" font-size="11" fill="#111827">BinarySearch</text>
+<path d="M80.0,106.2 L99.4,263.1 L123.6,205.6 L317.6,81.0 L560.0,74.1" fill="none" stroke="#dc2626" stroke-width="2"/>
+<circle cx="80.0" cy="106.2" r="3" fill="#dc2626"/>
+<circle cx="99.4" cy="263.1" r="3" fill="#dc2626"/>
+<circle cx="123.6" cy="205.6" r="3" fill="#dc2626"/>
+<circle cx="317.6" cy="81.0" r="3" fill="#dc2626"/>
+<circle cx="560.0" cy="74.1" r="3" fill="#dc2626"/>
+<line x1="580" y1="75" x2="598" y2="75" stroke="#dc2626" stroke-width="2.5"/>
+<text x="604" y="79" font-size="11" fill="#111827">LinearSearch</text>
+</svg>

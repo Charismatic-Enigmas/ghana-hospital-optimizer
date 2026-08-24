@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" font-family="Arial, sans-serif">
+<rect width="760" height="460" fill="white"/>
+<text x="380.0" y="24" text-anchor="middle" font-size="16" font-weight="bold">BST vs balanced tree: height (sorted-order inserts, worst case for BST)</text>
+<line x1="80" y1="451.9" x2="560" y2="451.9" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="455.9" text-anchor="end" font-size="11" fill="#374151">-2.5k</text>
+<line x1="80" y1="376.0" x2="560" y2="376.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="380.0" text-anchor="end" font-size="11" fill="#374151">0</text>
+<line x1="80" y1="300.2" x2="560" y2="300.2" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="304.2" text-anchor="end" font-size="11" fill="#374151">2.5k</text>
+<line x1="80" y1="224.4" x2="560" y2="224.4" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="228.4" text-anchor="end" font-size="11" fill="#374151">5.0k</text>
+<line x1="80" y1="148.5" x2="560" y2="148.5" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="152.5" text-anchor="end" font-size="11" fill="#374151">7.5k</text>
+<line x1="80" y1="72.7" x2="560" y2="72.7" stroke="#e5e7eb" stroke-width="1"/>
+<text x="72" y="76.7" text-anchor="end" font-size="11" fill="#374151">10.0k</text>
+<text x="80.0" y="418" text-anchor="middle" font-size="10" fill="#374151">100</text>
+<line x1="80.0" y1="50" x2="80.0" y2="400" stroke="#f3f4f6" stroke-width="1"/>
+<text x="123.6" y="418" text-anchor="middle" font-size="10" fill="#374151">1.0k</text>
+<line x1="123.6" y1="50" x2="123.6" y2="400" stroke="#f3f4f6" stroke-width="1"/>
+<text x="317.6" y="418" text-anchor="middle" font-size="10" fill="#374151">5.0k</text>
+<line x1="317.6" y1="50" x2="317.6" y2="400" stroke="#f3f4f6" stroke-width="1"/>
+<text x="560.0" y="418" text-anchor="middle" font-size="10" fill="#374151">10.0k</text>
+<line x1="560.0" y1="50" x2="560.0" y2="400" stroke="#f3f4f6" stroke-width="1"/>
+<line x1="80" y1="50" x2="80" y2="400" stroke="#111827" stroke-width="1.5"/>
+<line x1="80" y1="400" x2="560" y2="400" stroke="#111827" stroke-width="1.5"/>
+<text x="320.0" y="446" text-anchor="middle" font-size="12" fill="#111827">input size</text>
+<text x="16" y="225.0" text-anchor="middle" font-size="12" fill="#111827" transform="rotate(-90 16 225.0)">mean height</text>
+<path d="M80.0,373.0 L123.6,345.7 L317.6,224.8 L560.0,74.1" fill="none" stroke="#2563eb" stroke-width="2"/>
+<circle cx="80.0" cy="373.0" r="3" fill="#2563eb"/>
+<circle cx="123.6" cy="345.7" r="3" fill="#2563eb"/>
+<circle cx="317.6" cy="224.8" r="3" fill="#2563eb"/>
+<circle cx="560.0" cy="74.1" r="3" fill="#2563eb"/>
+<line x1="580" y1="55" x2="598" y2="55" stroke="#2563eb" stroke-width="2.5"/>
+<text x="604" y="59" font-size="11" fill="#111827">BST</text>
+<path d="M80.0,375.9 L123.6,375.8 L317.6,375.7 L560.0,375.6" fill="none" stroke="#dc2626" stroke-width="2"/>
+<circle cx="80.0" cy="375.9" r="3" fill="#dc2626"/>
+<circle cx="123.6" cy="375.8" r="3" fill="#dc2626"/>
+<circle cx="317.6" cy="375.7" r="3" fill="#dc2626"/>
+<circle cx="560.0" cy="375.6" r="3" fill="#dc2626"/>
+<line x1="580" y1="75" x2="598" y2="75" stroke="#dc2626" stroke-width="2.5"/>
+<text x="604" y="79" font-size="11" fill="#111827">RedBlackTree</text>
+</svg>
