@@ -553,7 +553,7 @@ algorithm live):
       appearing in a BFS/Dijkstra demo (options 4–5).
 - [ ] Every member can narrate one rotation from `redblack_rotations.md` and
       one split from `btree_trace.md` at the whiteboard.
-- [ ] Demo video recorded and linked: `[TEAM: link/attachment]`.
+- [x] Demo video recorded and linked: [YouTube Walkthrough (https://youtu.be/FThXBeDyagg)](https://youtu.be/FThXBeDyagg).
 
 ---
 
